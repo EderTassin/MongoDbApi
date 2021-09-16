@@ -30,12 +30,12 @@ namespace MongoDbAPI.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateProduct([FromBody] Product product)
         {
-            if(product == null)
+            if (product == null)
             {
                 return BadRequest();
             }
-            
-            if(product.Name == string.Empty)
+
+            if (product.Name == string.Empty)
             {
                 ModelState.AddModelError("Name", "The product shouldn't be empty");
             }

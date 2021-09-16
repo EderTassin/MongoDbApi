@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\MongoDbAPI.csproj": {}
+    "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\MongoDbAPI.csproj": {
+    "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\MongoDbAPI.csproj",
-        "projectName": "MongoDbAPI",
-        "projectPath": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\MongoDbAPI.csproj",
+        "projectUniqueName": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectName": "WebApplication1",
+        "projectPath": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\edert\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\obj\\",
+        "outputPath": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edert\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "MongoDB.Driver": {
-              "target": "Package",
-              "version": "[2.13.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -55,12 +49,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.17, 3.1.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -69,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

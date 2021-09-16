@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbAPI", "MongoDbAPI\MongoDbAPI.csproj", "{37617351-5E29-4896-90B4-0E0EEF24E7D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDbAPI", "MongoDbAPI\MongoDbAPI.csproj", "{81A672E8-E802-490D-B5CC-5BB393E74C7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{37617351-5E29-4896-90B4-0E0EEF24E7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37617351-5E29-4896-90B4-0E0EEF24E7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37617351-5E29-4896-90B4-0E0EEF24E7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37617351-5E29-4896-90B4-0E0EEF24E7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A672E8-E802-490D-B5CC-5BB393E74C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A672E8-E802-490D-B5CC-5BB393E74C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A672E8-E802-490D-B5CC-5BB393E74C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A672E8-E802-490D-B5CC-5BB393E74C7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8339F719-95F6-4C87-93AE-26C9BB756491}
+		SolutionGuid = {E28401E0-94F0-4409-86B8-5FED96A5EA68}
 	EndGlobalSection
 EndGlobal

@@ -454,11 +454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\edert\\GitHub\\MongoDbAPI\\MongoDbAPI\\MongoDbAPI\\MongoDbAPI.csproj",
+      "projectUniqueName": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\MongoDbAPI.csproj",
       "projectName": "MongoDbAPI",
-      "projectPath": "D:\\Users\\edert\\GitHub\\MongoDbAPI\\MongoDbAPI\\MongoDbAPI\\MongoDbAPI.csproj",
+      "projectPath": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\MongoDbAPI.csproj",
       "packagesPath": "C:\\Users\\edert\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\edert\\GitHub\\MongoDbAPI\\MongoDbAPI\\MongoDbAPI\\obj\\",
+      "outputPath": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\edert\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -502,6 +502,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.17, 3.1.17]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -510,7 +516,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
       }
     }
   }
