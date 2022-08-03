@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\MongoDbAPI.csproj": {}
+    "D:\\Users\\Edert\\Documents\\GitHub\\MongoDbApi\\MongoDbAPI\\MongoDbAPI.csproj": {}
   },
   "projects": {
-    "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\MongoDbAPI.csproj": {
+    "D:\\Users\\Edert\\Documents\\GitHub\\MongoDbApi\\MongoDbAPI\\MongoDbAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\MongoDbAPI.csproj",
+        "projectUniqueName": "D:\\Users\\Edert\\Documents\\GitHub\\MongoDbApi\\MongoDbAPI\\MongoDbAPI.csproj",
         "projectName": "MongoDbAPI",
-        "projectPath": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\MongoDbAPI.csproj",
-        "packagesPath": "C:\\Users\\edert\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\edert\\TestProjectC#\\WebApplication1\\MongoDbAPI\\obj\\",
+        "projectPath": "D:\\Users\\Edert\\Documents\\GitHub\\MongoDbApi\\MongoDbAPI\\MongoDbAPI.csproj",
+        "packagesPath": "C:\\Users\\Edert\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Edert\\Documents\\GitHub\\MongoDbApi\\MongoDbAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\edert\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Edert\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.17, 3.1.17]"
+              "version": "[3.1.23, 3.1.23]"
             }
           ],
           "frameworkReferences": {
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
