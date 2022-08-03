@@ -56,8 +56,7 @@ namespace MongoDbAPI.Controllers
 
             if (product.Name == string.Empty)
             {
-                //ModelState.AddModelError("Name", "The product shouldn't be empty");
-                ModelState.AddModelError("Name", "Cambio de mensajes");
+                ModelState.AddModelError("Name", "The product shouldn't be empty");
             }
 
             product.Id = new MongoDB.Bson.ObjectId(id);
